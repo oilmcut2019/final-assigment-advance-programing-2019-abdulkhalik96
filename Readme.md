@@ -140,7 +140,7 @@ classifier.fit_generator(training_set,
 
 
 
-Capture1.PNG
+https://github.com/oilmcut2019/final-assigment-advance-programing-2019-abdulkhalik96/pull/1/files#diff-043ab0ec0976b0963523d742dc22973c
 
 ![Capture2.PNG](attachment:Capture2.PNG)
 
