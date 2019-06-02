@@ -142,7 +142,7 @@ classifier.fit_generator(training_set,
 
 ![Screenshot](https://user-images.githubusercontent.com/48131609/58764994-59d27a00-8598-11e9-910e-52bd9740bfd5.PNG)
 
-![Capture2.PNG](attachment:Capture2.PNG)
+![Screenshot](https://user-images.githubusercontent.com/48131609/58765082-217f6b80-8599-11e9-8cc5-47843502fa27.PNG)
 
 # Part 2 - Fitting the CNN to the images (Part 2)
 
@@ -248,9 +248,9 @@ classifier.fit_generator(training_set,
 
 
 
-![Capture3.PNG](attachment:Capture3.PNG)
+![Screenshot](https://user-images.githubusercontent.com/48131609/58765095-41af2a80-8599-11e9-94eb-5b4fb6cb9c88.PNG)
 
-![Capture4.PNG](attachment:Capture4.PNG)
+![Screenshot](https://user-images.githubusercontent.com/48131609/58765097-44118480-8599-11e9-9760-eccd76820325.PNG)
 
 # Part 2 - Fitting the CNN to the images (Part 3)
 
@@ -340,9 +340,9 @@ classifier.fit_generator(training_set,
 
 
 
-![Capture5.PNG](attachment:Capture5.PNG)
+![Screenshot](https://user-images.githubusercontent.com/48131609/58765100-45db4800-8599-11e9-9ec7-464f041b3be4.PNG)
 
-![Capture6.PNG](attachment:Capture6.PNG)
+![Screenshot](https://user-images.githubusercontent.com/48131609/58765102-47a50b80-8599-11e9-9fe6-a87aae43b1f4.PNG)
 
 # Conclusion
 
