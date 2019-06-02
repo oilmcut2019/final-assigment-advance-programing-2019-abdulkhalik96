@@ -140,7 +140,7 @@ classifier.fit_generator(training_set,
 
 
 
-![Capture1.PNG](attachment:Capture1.PNG)
+Capture1.PNG
 
 ![Capture2.PNG](attachment:Capture2.PNG)
 
